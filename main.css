@@ -1,0 +1,13 @@
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+
+.centered{
+  margin-left:250px
+}
+.backgroundGradient {
+        background: linear-gradient(to bottom, white, Gray);
+        color: black;
+    }
